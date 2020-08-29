@@ -5,6 +5,6 @@
 </a>
 
 
-- 🔐 Focusing on cyber security & anything fun about programming.
+- 🔐 Focusing on cyber security || everything fun about programming.
 - 🤔 Not always enthusiastic after got a project just works.
 - 🏘 Blog at [leohearts.com](https://leohearts.com)
