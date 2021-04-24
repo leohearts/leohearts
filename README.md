@@ -5,6 +5,6 @@
 </a>
 
 
-- 🔐 Focusing on cyber security or everything fun about programming😂.
-- 🤔 Not always enthusiastic after got a project just works.
+- 🔐 Distracting on cyber security and everything fun about program😂.
+- 🤔 Not always enthusiastic after getting a project works.
 - 🏘 Blog at [leohearts.com](https://leohearts.com)
