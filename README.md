@@ -2,7 +2,7 @@
 
 
 <a href="https://github.com/leohearts?tab=repositories" >
-  </br>
+  <p></p>
   <img align=right width="45%" src="https://github-readme-stats.vercel.app/api?username=leohearts&show_icons=true&theme=default" />
 </a>
 
