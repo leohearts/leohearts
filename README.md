@@ -6,7 +6,7 @@
 ### Hi, I'm Leohearts. 👋
 
 - 💬 She/Her/They 🏳‍⚧
-- 🔐 Distracting on cyber security and everything fun about program 😂.
+- 🔐 Not always focusing on cyber security 😂
 - 🤔 Not always enthusiastic after getting a project works.
 - 🏘 Blog at [leohearts.com](https://leohearts.com)
 - 💻 Uboomtu devel
