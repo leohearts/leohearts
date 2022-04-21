@@ -7,7 +7,7 @@
 
 - 💬 She/Her/They 🏳‍⚧
 - 🔐 Not always focusing on cyber security 😂
-- 🤔 Not always enthusiastic after getting a project works.
+- 🤔 Make project that works
 - 🏘 Blog at [leohearts.com](https://leohearts.com)
 - 💻 Uboomtu devel
 - 🌐 JavaScript, PHP, Python, Java <- Dont' exactly code
