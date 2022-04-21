@@ -11,4 +11,4 @@
 - 🏘 Blog at [leohearts.com](https://leohearts.com)
 - 💻 Uboomtu devel
 - 🌐 JavaScript, PHP, Python, Java <- Dont' exactly code
-- ❤ Loves money 💸
+- 💖 Loves money 💸
