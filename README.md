@@ -5,7 +5,6 @@
 
 ### Hi, I'm Leohearts. 👋
 
-- 💬 She/Her/They 🏳‍⚧
 - 🔐 Not always focusing on cyber security 🐟
 - 🤔 Make project that works
 - 🏘 Blog at [leohearts.com](https://leohearts.com)
