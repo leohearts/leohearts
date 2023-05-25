@@ -11,3 +11,6 @@
 - 💻 Uboomtu devel
 - 🌐 JavaScript, PHP, Python, Java <- Dont' exactly code
 - 🤤 Loves 💸(?
+
+
+[![My Skills](https://skillicons.dev/icons?i=docker,bash,aws,cloudflare,linux,js,html,python,css,php,electron,androidstudio,java,kotlin,cpp,git,md,qt,ts,mysql,redis)](https://skillicons.dev)
