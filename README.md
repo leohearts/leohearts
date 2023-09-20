@@ -6,7 +6,7 @@
   
 - 🔐 Not always focusing on cyber security 🐟
 - 🥔 Non binary, or potato
-- 🤔 Make project that works
+- 🤔 Make project that works, or not
 - 🏘 Blog at [leohearts.com](https://leohearts.com)
 - 💻 Uboomtu devel
 - 🌐 Node, PHP, JavaScript, Python, Java, or Kotlin ?
