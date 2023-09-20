@@ -12,4 +12,4 @@
 - 🌐 Node, PHP, JavaScript, Python, Java, or Kotlin ?
 - 🤤 Loves 💸(?, 
 
-[![My Skills](https://skillicons.dev/icons?i=docker,bash,aws,cloudflare,linux,js,html,python,css,php,electron,androidstudio,java,kotlin,cpp,git,md,qt,ts,mysql,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,bash,aws,cloudflare,workers,linux,vim,js,html,python,flask,css,php,electron,androidstudio,java,kotlin,gradle,cpp,git,md,qt,ts,mysql,redis,ipfs,graphql)](https://skillicons.dev)
