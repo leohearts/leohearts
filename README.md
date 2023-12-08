@@ -6,11 +6,12 @@
   
 - 🔐 Not always focusing on cyber security 🐟
 - 🥔 Non binary, or potato ?
-- 🏘 Blog at [leohearts.com](https://leohearts.com)
 - 💻 Uboomtu devel
 - 🌐 Node, PHP, JavaScript, Python, Java, Kotlin, or Golang ?
 - ☁️ Think in Cloud Native
 - 🏡 Prefer freelancing or work from home
 - 🤤 Love catgirls and 💸(?, gimmy projects ! 
+
+[Homepage](https://leohearts.com) | [Blog](https://leohearts.com) | [About](https://leohearts.com/start-page.html) | [GPG Pubkey](https://github.com/leohearts.gpg)
 
 [![My Skills](https://skillicons.dev/icons?i=docker,bash,aws,cloudflare,workers,linux,vim,js,html,python,flask,css,php,electron,androidstudio,java,kotlin,gradle,cpp,git,md,qt,ts,mysql,redis,ipfs,graphql)](https://skillicons.dev)
