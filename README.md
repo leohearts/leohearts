@@ -6,10 +6,9 @@
   
 - 🔐 Not always focusing on cyber security 🐟
 - 🥔 Non binary, or potato ?
-- 🤔 Make project that probably works
 - 🏘 Blog at [leohearts.com](https://leohearts.com)
 - 💻 Uboomtu devel
-- 🌐 Node, PHP, JavaScript, Python, Java, or Kotlin ?
+- 🌐 Node, PHP, JavaScript, Python, Java, Kotlin, or Golang ?
 - ☁️ Think in Cloud Native
 - 🏡 Prefer freelancing or work from home
 - 🤤 Love catgirls and 💸(?, gimmy projects ! 
