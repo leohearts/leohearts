@@ -5,11 +5,11 @@
 </a>
   
 - 🔐 Not always focusing on cyber security 🐟
-- 🥔 Non binary, or potato
+- 🥔 Non binary, or potato ?
 - 🤔 Make project that probably works
 - 🏘 Blog at [leohearts.com](https://leohearts.com)
 - 💻 Uboomtu devel
 - 🌐 Node, PHP, JavaScript, Python, Java, or Kotlin ?
-- 🤤 Loves 💸(?, 
+- 🤤 Love catgirls and 💸(?, gimmy projects ! 
 
 [![My Skills](https://skillicons.dev/icons?i=docker,bash,aws,cloudflare,workers,linux,vim,js,html,python,flask,css,php,electron,androidstudio,java,kotlin,gradle,cpp,git,md,qt,ts,mysql,redis,ipfs,graphql)](https://skillicons.dev)
