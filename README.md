@@ -12,6 +12,6 @@
 - 🏡 Prefer freelancing or work from home
 - 🤤 Love catgirls and 💸(?, gimmy projects ! 
 
-[Homepage](https://leohearts.com) | [Blog](https://leohearts.com) | [About](https://leohearts.com/about.html) | [GPG Pubkey](https://github.com/leohearts.gpg)
+[Homepage](https://leohearts.com) | [Blog](https://leohearts.com) | [About](https://leohearts.com/about.html) | [GPG Pubkey](https://keys.openpgp.org/search?q=0x5EE785549CBFEBCF)
 
 [![My Skills](https://skillicons.dev/icons?i=docker,bash,aws,cloudflare,workers,linux,vim,js,html,python,flask,css,php,electron,androidstudio,java,kotlin,gradle,cpp,git,md,qt,ts,mysql,redis,ipfs,graphql)](https://skillicons.dev)
