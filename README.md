@@ -4,7 +4,7 @@
   <img align=right width="45%" src="https://github-readme-stats.vercel.app/api?username=leohearts&show_icons=true&theme=rose" />
 </a>
   
-- 🔐 Not always focusing on cyber security 🐟
+- 🎈 CTFer, ex OIer, Not always focusing on cyber security 🐟
 - 🥔 Non binary, or potato ?
 - 💻 Uboomtu devel
 - 🌐 Node, PHP, JavaScript, Python, Java, Kotlin, or Golang ?
