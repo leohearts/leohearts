@@ -16,6 +16,7 @@
 - 🤤 Love catgirls and 💸(?, gimmy projects !
 
 <code>[Homepage](https://leohearts.com)</code>  <code>[Blog](https://leohearts.com/blog.html)</code>  <code>[About](https://leohearts.com/about.html)</code>  <code>[GPG Pubkey](https://keys.openpgp.org/search?q=0x5EE785549CBFEBCF)</code>  
+<code>[请我吃草莓 / Buy me some strawberry](https://leohearts.com/sponsor.html)</code>  
 
 
 [![My Skills](https://skillicons.dev/icons?theme=light&i=aws,cloudflare,workers,docker,kubernetes,linux,bash,vim,js,html,python,flask,nodejs,php,electron,androidstudio,java,kotlin,gradle,cs,git,md,qt,ts,mysql,redis,elasticsearch,sqlite,graphql,nginx,regex,sass)](https://skillicons.dev)
