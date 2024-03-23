@@ -9,7 +9,7 @@
 
 - 🎈 CTFer, ex OIer, Not always focusing on cyber security 🐟
 - 🥔 Non binary, or potato ?
-- 💻 OpenSuSe Tumbleweed ~~Uboomtu devel~~
+- 💻 OpenSuSe Tumbleweed ~2024 ~~Uboomtu devel \~2016~~
 - 🌐 Node, PHP, JavaScript, Python, Java, Kotlin, or Golang ?
 - ☁️ Think in Cloud Native
 - 🏡 Prefer freelancing or work from home
