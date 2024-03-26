@@ -1,4 +1,4 @@
-# Hi, I'm Leohearts 🥔 <img src="https://dxrating.luoling.moe/api/genImage/leohearts"  />
+# Hi, I'm Leohearts 🥔 <img src="https://dxrating.luoling.moe/api/genImage/leohearts"  /><img src="https://komarev.com/ghpvc/?username=leohearts" />
 
 ## 💼 I'm looking for a job in Europe !
   
