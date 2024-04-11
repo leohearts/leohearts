@@ -1,6 +1,6 @@
 # Hi, I'm Leohearts 🥔 <img src="https://dxrating.luoling.moe/api/genImage/leohearts"  /><img src="https://komarev.com/ghpvc/?username=leohearts" />
 
-## 💼 I'm looking for a job in Europe !
+## 💼 I'm a freelancer!
   
 
 <a href="https://github.com/leohearts?tab=repositories" >
