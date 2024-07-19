@@ -19,4 +19,4 @@
 <code>[请我吃草莓 / Buy me some strawberry🍓](https://leohearts.com/sponsor.html)</code>  
 
 
-[![My Skills](https://skillicons.dev/icons?theme=light&i=aws,cloudflare,workers,docker,kubernetes,linux,bash,vim,js,html,python,flask,nodejs,php,electron,androidstudio,java,kotlin,gradle,cs,git,md,qt,ts,mysql,redis,elasticsearch,sqlite,graphql,nginx,solidity,rust,regex,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?theme=light&i=aws,cloudflare,workers,docker,kubernetes,linux,bash,vim,js,html,python,flask,nodejs,php,electron,androidstudio,java,kotlin,gradle,cs,git,md,qt,ts,react,nextjs,mysql,redis,elasticsearch,sqlite,graphql,nginx,solidity,rust,regex,sass)](https://skillicons.dev)
