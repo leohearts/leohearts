@@ -7,6 +7,7 @@
   <img align=right width="45%" src="https://github-readme-stats.vercel.app/api?username=leohearts&show_icons=true&theme=rose" />
 </a>
 
+- 🤖 Recently playing with catgirls inside of my GPU
 - 🎈 CTFer, ex OIer, Not always focusing on cyber security 🐟
 - 🥔 Non binary, or potato ?
 - 🐧 OpenSuSe Tumbleweed ~2024 ~~Uboomtu devel \~2016~~
